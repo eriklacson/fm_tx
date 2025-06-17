@@ -9,17 +9,6 @@ A simple FM transmitter built using GNU Radio Companion (GRC) and Python, design
 - Plays back audio files over FM
 - Python script to run the transmission without opening GRC
 
----
-
-## Repository Structure
-
-fm_tx/
-├── fm_tx.grc                # GNU Radio Companion flowgraph
-├── top_block.py             # Python script to run the flowgraph
-├── HumanEvents_s32k.wav     # Sample audio file
-└── README.md                # Project documentation
-
----
 
 ## Requirements
 
